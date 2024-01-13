@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Demo1
 {
-    public partial class Form_Tai_Khoan : Form
+    public partial class BaoCaoSanPham : Form
     {
-        public Form_Tai_Khoan()
+        public BaoCaoSanPham()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

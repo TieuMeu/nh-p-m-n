@@ -1,19 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="FORM Chức Năng_NhanVien\BaoCaoSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form_Tai_Khoan.cs">
+    <Compile Update="FORM Chính\Form_Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form_Đăng_Nhap_Nhân_Viên.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Form_Đăng_Nhập_Admin.cs">
+    <Compile Update="FORM Chức Năng_NhanVien\FORM_BienLai.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Nhan_Vien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORM Chính\TrangChu_ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORM Chính\TrangChu_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORM Chức Năng_ADMIN\QuanLy_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORM Chức Năng_ADMIN\QuanLy_NhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORM Chức Năng_ADMIN\QuanLy_DonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORM Chức Năng_ADMIN\QuanLy_KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORM Chức Năng_NhanVien\ThongKeDonHang.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

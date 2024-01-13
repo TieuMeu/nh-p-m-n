@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Demo1
 {
-    public partial class Form_Đăng_Nhập_Admin : Form
+    public partial class QuanLy_NhapHang : Form
     {
-        public Form_Đăng_Nhập_Admin()
+        public QuanLy_NhapHang()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

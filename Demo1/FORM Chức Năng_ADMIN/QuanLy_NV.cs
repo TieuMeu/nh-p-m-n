@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Demo1
+{
+    public partial class QuanLy_NV : Form
+    {
+        public QuanLy_NV()
+        {
+            InitializeComponent();
+        }
+
+        private void QuanLy_NV_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

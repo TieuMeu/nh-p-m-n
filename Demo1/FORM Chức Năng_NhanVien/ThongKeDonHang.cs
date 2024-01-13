@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Demo1
 {
-    public partial class Form_Đăng_Nhap_Nhân_Viên : Form
+    public partial class ThongKeDonHang : Form
     {
-        public Form_Đăng_Nhap_Nhân_Viên()
+        public ThongKeDonHang()
         {
             InitializeComponent();
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
